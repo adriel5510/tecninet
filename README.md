@@ -1,2 +1,2 @@
 # tecninet
-contreole de estoque
+controle de estoque
