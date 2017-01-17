@@ -1,0 +1,2 @@
+# tecninet
+contreole de estoque
